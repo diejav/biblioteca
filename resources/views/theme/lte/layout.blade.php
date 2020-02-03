@@ -52,6 +52,10 @@
     <script src='{{ asset("assets/$theme/plugins/bootstrap/js/bootstrap.bundle.min.js") }}'></script>
     <!-- AdminLTE App -->
     <script src='{{ asset("assets/$theme/dist/js/adminlte.min.js") }}'></script>
+
+    <script src='{{ asset("assets/js/jquery-validation/jquery.validate.min.js") }}'></script>
+    <script src='{{ asset("assets/js/jquery-validation/localization/messages_es_AR.min.js") }}'></script>
+    <script src='{{ asset("assets/js/funciones.js") }}'></script>
     <!-- AdminLTE for demo purposes -->
     <!--<script src='{{ asset("assets/$theme/dist/js/demo.js") }}'></script>  -->
 
