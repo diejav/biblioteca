@@ -1,6 +1,7 @@
 <?php
 
-use App\Models\Permiso;
+
+use App\models\Admin\Permiso;
 use Illuminate\Database\Seeder;
 
 class TablaPermisoSeeder extends Seeder
